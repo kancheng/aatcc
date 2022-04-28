@@ -7,6 +7,11 @@ PKU 2022 個人實驗報告作業
 
 ## Details
 
+### Figma Mind
+
+https://www.figma.com/file/TWwaYJbUOvEE7210MgEzUd/PKUSZ_AATCC
+
+
 ![](w1tow9_xmind.png)
 
 ![](w1tow9_figma.png)
